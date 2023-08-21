@@ -1,5 +1,0 @@
-- 👋 Hi, I’m Maurya Patel
-- 👀 I’m interested in web development
-- 🌱 I’m comfortable with MERN , MEAN and django with python
-- 💞️ I’m looking to collaborate on full stack projects
-- 📫 You can reach me at mauryapatel2609@gmail.com
